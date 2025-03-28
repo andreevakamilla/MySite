@@ -1,0 +1,32 @@
+{
+  "bunnies": [
+    {
+      "id": "07c5",
+      "name": "Mila",
+      "age": "2",
+      "description": "Mila is a gentle and affectionate bunny with soft, coffee-colored fur. She loves being petted behind her ears and is happy to be held. Mila enjoys playing with a little ball and is always up for company. Friendly with people and other bunnies, she would make a great companion for kids and adults alike.",
+      "photo": "https://preview.redd.it/tvl1jecyywz51.jpg?width=640&crop=smart&auto=webp&s=0d3a8657f087a549cb0f9cf383b22b9419ac6d9e"
+    },
+    {
+      "id": "e0d2",
+      "name": "Busy",
+      "age": "1",
+      "description": "Busy is an energetic and playful little bunny who’s always ready for an adventure. Her fur is a striking black with white spots, making her look unique and easy to spot. She loves exploring her surroundings, digging through hay, and hopping over small obstacles. Busy gets along well with other bunnies and is sure to lift your spirits, even on the gloomiest days.",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHzKTMdSMIaqq9GVNZNg2wBYl427yhwp4CEA&s"
+    },
+    {
+      "id": "74cf",
+      "name": "Snowball",
+      "age": "3",
+      "description": "Snowball is a calm and wise bunny with pure white fur and expressive blue eyes. He prefers quiet corners and gentle strokes, and he loves sitting close to people, observing everything around him. Snowball is perfect for those looking for a peaceful, relaxed bunny companion to share cozy evenings together.",
+      "photo": "https://i.pinimg.com/564x/66/b8/97/66b897928b03565cb4e3a5bb6e382de5.jpg"
+    },
+    {
+      "id": "7574",
+      "name": "Thumper",
+      "age": "2",
+      "description": "Thumper is a lively and curious bunny with a knack for adventure. His gray and white fur is soft and fluffy, making him look like a tiny cloud on legs. Thumper loves exploring new spaces, and he's especially fond of hopping around and discovering hidden corners. He has a playful personality and enjoys interacting with both humans and other bunnies. With his big, expressive eyes and twitching nose, Thumper is irresistibly charming and always ready to make new friends.",
+      "photo": "https://i.pinimg.com/564x/ad/6d/a8/ad6da8a16a7b70581cb741deeb55a7c1.jpg"
+    }
+  ]
+}

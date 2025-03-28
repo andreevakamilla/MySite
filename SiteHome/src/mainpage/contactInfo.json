@@ -1,0 +1,11 @@
+{
+    "contact": {
+      "phone": "+1 234 567 890",
+      "email": "example@example.com",
+      "address": "Moscow Region, Stupino Urban District"
+    },
+    "connect": {
+      "socialNetwork": "https://socialnetwork.com/yourprofile"
+    }
+  }
+  
